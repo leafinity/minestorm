@@ -1,0 +1,184 @@
+2014-07-16 17:38:15 [INFO] Starting minecraft server version 1.4.7
+2014-07-16 17:38:15 [INFO] Loading properties
+2014-07-16 17:38:15 [WARNING] server.properties does not exist
+2014-07-16 17:38:15 [INFO] Generating new properties file
+2014-07-16 17:38:15 [INFO] Default game type: SURVIVAL
+2014-07-16 17:38:15 [INFO] Generating keypair
+2014-07-16 17:38:16 [INFO] Starting Minecraft server on *:25565
+2014-07-16 17:38:16 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2014-07-16 17:38:16 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2014-07-16 17:38:16 [INFO] Preparing level "world"
+2014-07-16 17:38:16 [INFO] Preparing start region for level 0
+2014-07-16 17:38:18 [INFO] Preparing spawn area: 6%
+2014-07-16 17:38:19 [INFO] Preparing spawn area: 16%
+2014-07-16 17:38:20 [INFO] Preparing spawn area: 26%
+2014-07-16 17:38:21 [INFO] Preparing spawn area: 36%
+2014-07-16 17:38:22 [INFO] Preparing spawn area: 42%
+2014-07-16 17:38:23 [INFO] Preparing spawn area: 51%
+2014-07-16 17:38:24 [INFO] Preparing spawn area: 56%
+2014-07-16 17:38:25 [INFO] Preparing spawn area: 65%
+2014-07-16 17:38:26 [INFO] Preparing spawn area: 68%
+2014-07-16 17:38:27 [INFO] Preparing spawn area: 69%
+2014-07-16 17:38:28 [INFO] Preparing spawn area: 73%
+2014-07-16 17:38:29 [INFO] Preparing spawn area: 75%
+2014-07-16 17:38:30 [INFO] Preparing spawn area: 76%
+2014-07-16 17:38:31 [INFO] Preparing spawn area: 77%
+2014-07-16 17:38:32 [INFO] Preparing spawn area: 86%
+2014-07-16 17:38:33 [INFO] Preparing spawn area: 92%
+2014-07-16 17:38:34 [INFO] Preparing spawn area: 99%
+2014-07-16 17:38:34 [INFO] Done (18.379s)! For help, type "help" or "?"
+2014-07-16 17:38:44 [INFO] Opped UrchinSea
+2014-07-16 17:38:51 [INFO] Opped milkyleaf
+2014-07-16 17:39:04 [INFO] milkyleaf[/127.0.0.1:43044] logged in with entity id 5077 at (225.5, 70.62000000476837, 253.5)
+2014-07-16 17:39:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-16 17:39:13 [INFO] milkyleaf lost connection: disconnect.quitting
+2014-07-16 17:39:17 [INFO] Stopping server
+2014-07-16 17:39:17 [INFO] Saving players
+2014-07-16 17:39:17 [INFO] Saving worlds
+2014-07-16 17:39:17 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-16 17:39:17 [INFO] Saving chunks for level 'world'/Nether
+2014-07-16 17:39:17 [INFO] Saving chunks for level 'world'/The End
+2014-07-16 17:39:18 [INFO] Stopping server
+2014-07-16 17:39:50 [INFO] Starting minecraft server version 1.4.7
+2014-07-16 17:39:50 [INFO] Loading properties
+2014-07-16 17:39:50 [INFO] Default game type: SURVIVAL
+2014-07-16 17:39:50 [INFO] Generating keypair
+2014-07-16 17:39:51 [INFO] Starting Minecraft server on *:25565
+2014-07-16 17:39:51 [INFO] Preparing level "world"
+2014-07-16 17:39:51 [INFO] Preparing start region for level 0
+2014-07-16 17:39:52 [INFO] Done (0.992s)! For help, type "help" or "?"
+2014-07-16 17:40:05 [INFO] /127.0.0.1:43074 lost connection
+2014-07-16 17:40:15 [INFO] milkyleaf[/127.0.0.1:43080] logged in with entity id 54 at (-114.5, 38.62000000476837, -121.5)
+2014-07-16 17:40:28 [INFO] UrchinSea[/10.5.6.5:4735] logged in with entity id 434 at (-122.5, 61.62000000476837, -109.5)
+2014-07-16 17:40:59 [INFO] milkyleaf hit the ground too hard
+2014-07-16 17:41:08 [INFO] UrchinSea fell out of the world
+2014-07-16 17:41:15 [INFO] UrchinSea fell out of the world
+2014-07-16 17:41:29 [INFO] milkyleaf lost connection: disconnect.quitting
+2014-07-16 17:41:34 [INFO] UrchinSea lost connection: disconnect.quitting
+2014-07-16 17:41:45 [INFO] Stopping server
+2014-07-16 17:41:45 [INFO] Saving players
+2014-07-16 17:41:45 [INFO] Saving worlds
+2014-07-16 17:41:45 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-16 17:41:45 [INFO] Saving chunks for level 'world'/Nether
+2014-07-16 17:41:45 [INFO] Saving chunks for level 'world'/The End
+2014-07-16 17:41:45 [INFO] Stopping server
+2014-07-16 17:42:15 [INFO] Starting minecraft server version 1.4.7
+2014-07-16 17:42:15 [INFO] Loading properties
+2014-07-16 17:42:15 [INFO] Default game type: SURVIVAL
+2014-07-16 17:42:15 [INFO] Generating keypair
+2014-07-16 17:42:15 [INFO] Starting Minecraft server on *:25565
+2014-07-16 17:42:15 [INFO] Preparing level "world"
+2014-07-16 17:42:15 [INFO] Preparing start region for level 0
+2014-07-16 17:42:16 [INFO] Done (1.040s)! For help, type "help" or "?"
+2014-07-16 17:42:25 [INFO] /127.0.0.1:43154 lost connection
+2014-07-16 17:42:28 [INFO] milkyleaf[/127.0.0.1:43157] logged in with entity id 95 at (-114.5, 38.62000000476837, -120.5)
+2014-07-16 17:42:53 [INFO] UrchinSea[/10.5.6.5:4769] logged in with entity id 23531 at (-124.5, 0.6200000047683716, -111.5)
+2014-07-16 17:42:59 [INFO] UrchinSea fell out of the world
+2014-07-16 17:45:17 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 17:47:47 [INFO] UrchinSea lost connection: disconnect.genericReason
+2014-07-16 17:47:56 [INFO] UrchinSea[/10.5.6.5:4825] logged in with entity id 428014 at (-110.56716676313478, 66.0, -110.6311795370898)
+2014-07-16 17:54:55 [INFO] UrchinSea hit the ground too hard
+2014-07-16 17:55:03 [INFO] UrchinSea lost connection: disconnect.quitting
+2014-07-16 17:55:06 [INFO] milkyleaf lost connection: disconnect.genericReason
+2014-07-16 17:55:11 [INFO] Stopping server
+2014-07-16 17:55:11 [INFO] Saving players
+2014-07-16 17:55:11 [INFO] Saving worlds
+2014-07-16 17:55:11 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-16 17:55:11 [INFO] Saving chunks for level 'world'/Nether
+2014-07-16 17:55:11 [INFO] Saving chunks for level 'world'/The End
+2014-07-16 20:08:57 [INFO] Starting minecraft server version 1.4.7
+2014-07-16 20:08:57 [INFO] Loading properties
+2014-07-16 20:08:57 [INFO] Default game type: SURVIVAL
+2014-07-16 20:08:57 [INFO] Generating keypair
+2014-07-16 20:08:57 [INFO] Starting Minecraft server on *:25565
+2014-07-16 20:08:57 [INFO] Preparing level "world"
+2014-07-16 20:08:58 [INFO] Preparing start region for level 0
+2014-07-16 20:08:59 [INFO] Preparing spawn area: 80%
+2014-07-16 20:08:59 [INFO] Done (1.512s)! For help, type "help" or "?"
+2014-07-16 20:09:04 [INFO] Game rule has been updated
+2014-07-16 20:09:23 [INFO] Stopping server
+2014-07-16 20:09:23 [INFO] Saving players
+2014-07-16 20:09:23 [INFO] Saving worlds
+2014-07-16 20:09:23 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-16 20:09:23 [INFO] Saving chunks for level 'world'/Nether
+2014-07-16 20:09:23 [INFO] Saving chunks for level 'world'/The End
+2014-07-16 20:09:23 [INFO] Stopping server
+2014-07-16 20:10:28 [INFO] Starting minecraft server version 1.4.7
+2014-07-16 20:10:28 [INFO] Loading properties
+2014-07-16 20:10:28 [INFO] Default game type: SURVIVAL
+2014-07-16 20:10:28 [INFO] Generating keypair
+2014-07-16 20:10:28 [INFO] Starting Minecraft server on *:25565
+2014-07-16 20:10:28 [INFO] Preparing level "world"
+2014-07-16 20:10:28 [INFO] Preparing start region for level 0
+2014-07-16 20:10:29 [INFO] Done (1.146s)! For help, type "help" or "?"
+2014-07-16 20:11:16 [INFO] milkyleaf[/127.0.0.1:3694] logged in with entity id 54 at (-124.5, 0.6200000047683716, -116.5)
+2014-07-16 20:11:22 [INFO] milkyleaf fell out of the world
+2014-07-16 20:12:37 [INFO] UrchinSea[/218.161.1.137:1155] logged in with entity id 107636 at (-106.5, 46.62000000476837, -122.5)
+2014-07-16 20:13:12 [INFO] UrchinSea fell out of the world
+2014-07-16 20:13:37 [INFO] [UrchinSea: Teleported UrchinSea to milkyleaf]
+2014-07-16 20:16:40 [INFO] milkyleaf hit the ground too hard
+2014-07-16 20:20:35 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 20:25:35 [INFO] [UrchinSea: Teleported UrchinSea to milkyleaf]
+2014-07-16 20:29:14 [INFO] [UrchinSea: Teleported UrchinSea to milkyleaf]
+2014-07-16 20:33:07 [INFO] [UrchinSea: Teleported UrchinSea to milkyleaf]
+2014-07-16 21:03:52 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 21:04:20 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 21:07:37 [INFO] milkyleaf fell out of the world
+2014-07-16 21:08:45 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 21:21:35 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 21:21:40 [INFO] milkyleaf hit the ground too hard
+2014-07-16 21:22:51 [INFO] milkyleaf fell out of the world
+2014-07-16 21:24:02 [INFO] milkyleaf fell out of the world
+2014-07-16 21:24:25 [INFO] milkyleaf hit the ground too hard
+2014-07-16 21:24:49 [INFO] milkyleaf fell out of the world
+2014-07-16 21:24:55 [INFO] milkyleaf fell out of the world
+2014-07-16 21:25:32 [INFO] milkyleaf fell out of the world
+2014-07-16 21:29:30 [INFO] milkyleaf fell out of the world
+2014-07-16 21:43:59 [INFO] milkyleaf fell out of the world
+2014-07-16 21:44:06 [INFO] milkyleaf fell out of the world
+2014-07-16 21:52:43 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 22:16:28 [INFO] UrchinSea hit the ground too hard
+2014-07-16 22:16:34 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 22:24:08 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 22:24:15 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 22:26:05 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 22:30:19 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 22:33:17 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 22:33:25 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 22:37:06 [INFO] [UrchinSea: Teleported UrchinSea to -110.50,64.50,-107.50]
+2014-07-16 22:38:47 [INFO] UrchinSea lost connection: disconnect.quitting
+2014-07-16 22:49:32 [INFO] [milkyleaf: Set own game mode to Creative Mode]
+2014-07-16 22:49:44 [INFO] [milkyleaf: Set own game mode to Survival Mode]
+2014-07-16 22:52:45 [INFO] milkyleaf fell out of the world
+2014-07-16 22:53:48 [INFO] UrchinSea[/218.161.1.137:1326] logged in with entity id 6274223 at (-111.91970372586125, 64.0, -110.46848139354378)
+2014-07-16 22:55:17 [INFO] milkyleaf fell out of the world
+2014-07-16 22:55:21 [INFO] [milkyleaf: Teleported milkyleaf to UrchinSea]
+2014-07-16 22:55:40 [INFO] [milkyleaf: Set own game mode to Creative Mode]
+2014-07-16 22:56:10 [INFO] [milkyleaf: Set own game mode to Survival Mode]
+2014-07-16 22:56:51 [INFO] milkyleaf fell out of the world
+2014-07-16 22:57:24 [INFO] [UrchinSea: Teleported UrchinSea to milkyleaf]
+2014-07-16 22:57:50 [INFO] [UrchinSea: Teleported UrchinSea to -108.50,64.50,-111.50]
+2014-07-16 22:59:23 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-16 23:00:57 [INFO] [UrchinSea: Teleported UrchinSea to -108.50,64.50,-111.50]
+2014-07-16 23:09:07 [INFO] UrchinSea hit the ground too hard
+2014-07-16 23:09:20 [INFO] [UrchinSea: Teleported UrchinSea to -108.50,64.50,-111.50]
+2014-07-16 23:09:21 [INFO] UrchinSea hit the ground too hard
+2014-07-16 23:09:24 [INFO] [UrchinSea: Teleported UrchinSea to -108.50,64.50,-111.50]
+2014-07-16 23:15:32 [INFO] UrchinSea hit the ground too hard
+2014-07-16 23:19:01 [INFO] [UrchinSea: Teleported UrchinSea to -108.50,64.50,-111.50]
+2014-07-16 23:23:48 [INFO] milkyleaf fell out of the world
+2014-07-16 23:25:47 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-16 23:26:11 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-16 23:26:12 [INFO] milkyleaf hit the ground too hard
+2014-07-16 23:27:21 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-16 23:27:22 [INFO] milkyleaf hit the ground too hard
+2014-07-16 23:39:36 [INFO] milkyleaf fell out of the world
+2014-07-16 23:48:12 [INFO] milkyleaf blew up
+2014-07-16 23:48:20 [INFO] milkyleaf fell out of the world
+2014-07-16 23:53:26 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-16 23:54:42 [INFO] [UrchinSea: Set own game mode to Creative Mode]
+2014-07-16 23:55:08 [INFO] [UrchinSea: Set own game mode to Survival Mode]
+2014-07-16 23:59:29 [INFO] [milkyleaf: Teleported milkyleaf to -107.50,64.50,-110.50]
+2014-07-17 00:10:57 [INFO] UrchinSea lost connection: disconnect.quitting
+2014-07-17 00:12:50 [INFO] milkyleaf lost connection: disconnect.quitting
+2014-07-17 00:54:39 [INFO] Stopping server
